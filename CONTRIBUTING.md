@@ -1,5 +1,5 @@
-# Contribuindo
+# Contributing
 
-Mantenha cada pull request pequeno, explique a motivação e inclua a validação
-executada. Alterações de documentação e de automação devem permanecer
-independentes quando possível para facilitar a revisão.
+Keep each pull request small, explain the motivation, and include the
+validation performed. Keep documentation and automation changes independent
+when possible to make review easier.

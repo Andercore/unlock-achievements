@@ -3,10 +3,10 @@ name: Bug report
 about: Report a reproducible problem
 ---
 
-## Descrição
+## Description
 
-Descreva o problema de forma objetiva.
+Describe the problem objectively.
 
-## Reprodução
+## Reproduction
 
-Liste os passos necessários para reproduzi-lo.
+List the steps required to reproduce it.

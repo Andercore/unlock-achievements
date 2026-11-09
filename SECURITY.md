@@ -1,6 +1,6 @@
-# Política de segurança
+# Security Policy
 
-Para relatar uma vulnerabilidade, abra um contato privado pelos canais de
-segurança do GitHub em vez de publicar detalhes exploráveis em uma issue.
+To report a vulnerability, use a private contact through GitHub's security
+channels instead of publishing exploitable details in an issue.
 
-Inclua a versão afetada, o impacto e passos mínimos para reprodução.
+Include the affected version, impact, and minimal reproduction steps.

@@ -1,5 +1,5 @@
-# Código de Conduta
+# Code of Conduct
 
-Esperamos que todas as interações neste projeto sejam respeitosas, inclusivas e
-focadas em melhorar o repositório. Comportamentos abusivos, discriminatórios ou
-ofensivos não são aceitos.
+We expect all interactions in this project to be respectful, inclusive, and
+focused on improving the repository. Abusive, discriminatory, or offensive
+behavior is not accepted.

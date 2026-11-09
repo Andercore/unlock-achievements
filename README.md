@@ -1,22 +1,22 @@
 # unlock-achievements
 
-Um repositório público para experimentar recursos de colaboração do GitHub de
-forma transparente e reproduzível.
+A public repository for experimenting with GitHub collaboration features in a
+transparent and reproducible way.
 
-## Objetivos
+## Goals
 
-- Exercitar issues, pull requests, revisões e merges.
-- Manter uma verificação automática simples em cada alteração.
-- Registrar no histórico as contribuições feitas ao projeto.
+- Practice using issues, pull requests, reviews, and merges.
+- Keep a simple automated check for every change.
+- Record project contributions in the history.
 
-## Desenvolvimento
+## Development
 
-Este projeto não exige dependências locais. Altere a documentação ou os
-workflows, abra um pull request e aguarde a verificação do GitHub Actions.
+This project has no local dependencies. Update the documentation or workflows,
+open a pull request, and wait for the GitHub Actions check.
 
-## Contribuindo
+## Contributing
 
-1. Crie uma branch a partir de `main`.
-2. Faça uma alteração pequena e focada.
-3. Abra um pull request descrevendo a motivação e a validação.
-4. Responda às revisões antes do merge.
+1. Create a branch from `main`.
+2. Make a small, focused change.
+3. Open a pull request describing the motivation and validation.
+4. Respond to reviews before merging.

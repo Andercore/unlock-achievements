@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="620" viewBox="0 0 1040 620" role="img" aria-labelledby="title desc">
+  <title id="title">Discord Developer Mode tutorial</title>
+  <desc id="desc">Illustration showing User Settings, Advanced, and the Developer Mode toggle.</desc>
+  <rect width="1040" height="620" rx="18" fill="#1e1f22"/>
+  <rect x="0" y="0" width="235" height="620" fill="#232428"/>
+  <text x="34" y="42" fill="#b5bac1" font-family="Arial, sans-serif" font-size="16" font-weight="700">USER SETTINGS</text>
+  <g fill="#dbdee1" font-family="Arial, sans-serif" font-size="17">
+    <text x="34" y="84">My Account</text>
+    <text x="34" y="120">Profiles</text>
+    <text x="34" y="156">Privacy &amp; Safety</text>
+    <text x="34" y="192">Authorized Apps</text>
+    <text x="34" y="228">Devices</text>
+    <text x="34" y="264">Connections</text>
+    <text x="34" y="300">Friend Requests</text>
+    <text x="34" y="355" fill="#949ba4" font-size="13" font-weight="700">APP SETTINGS</text>
+    <text x="34" y="393">Appearance</text>
+    <text x="34" y="429">Accessibility</text>
+    <text x="34" y="465">Voice &amp; Video</text>
+    <text x="34" y="501">Text &amp; Images</text>
+    <rect x="22" y="530" width="190" height="42" rx="6" fill="#4e5058"/>
+    <text x="34" y="557" fill="#fff" font-weight="700">Advanced</text>
+  </g>
+  <rect x="235" y="0" width="805" height="620" fill="#313338"/>
+  <text x="280" y="66" fill="#fff" font-family="Arial, sans-serif" font-size="27" font-weight="700">Advanced</text>
+  <text x="280" y="128" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700">Developer Mode</text>
+  <text x="280" y="161" fill="#b5bac1" font-family="Arial, sans-serif" font-size="15">Exposes helpful context menu items and copy-ID options.</text>
+  <rect x="887" y="112" width="70" height="38" rx="19" fill="#23a55a"/>
+  <circle cx="938" cy="131" r="14" fill="#fff"/>
+  <path d="M931 131l5 5 10-12" fill="none" stroke="#23a55a" stroke-width="3"/>
+  <path d="M160 525 C250 470, 235 390, 285 355" fill="none" stroke="#ed4245" stroke-width="5"/>
+  <path d="M277 351l14 3-10 11z" fill="#ed4245"/>
+  <circle cx="143" cy="535" r="21" fill="#ed4245"/>
+  <text x="137" y="542" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700">1</text>
+  <path d="M860 205 C920 180, 930 165, 925 151" fill="none" stroke="#ed4245" stroke-width="5"/>
+  <path d="M918 154l10-10 4 15z" fill="#ed4245"/>
+  <circle cx="850" cy="210" r="21" fill="#ed4245"/>
+  <text x="844" y="217" fill="#fff" font-family="Arial, sans-serif" font-size="20" font-weight="700">2</text>
+</svg>
